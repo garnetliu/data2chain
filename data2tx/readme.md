@@ -1,6 +1,6 @@
 源代码：
 
-https://github.com/Bit-Wasp/BitWasp.git
+https://github.com/Bit-Wasp/bitcoin-php
 
 路径：
 
